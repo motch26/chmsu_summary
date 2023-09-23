@@ -7,12 +7,21 @@ import {
   Typography,
   useTheme,
 } from "@mui/material";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import RegularTextField from "../Reusables/RegularTextField";
 import LoginIcon from "@mui/icons-material/Login";
+import {
+  redirect,
+  useActionData,
+  useFetcher,
+  useSubmit,
+} from "react-router-dom";
+import { login } from "../../utils/userUtils";
 
 const LoginPage = () => {
   const theme = useTheme();
+  const submit = useSubmit();
+  const actionData = useActionData();
   const [formValue, setFormValue] = useState({
     username: {
       value: "",
@@ -23,8 +32,7 @@ const LoginPage = () => {
       error: false,
     },
   });
-
-  const [isLoginError, setLoginError] = useState(false);
+  let loginError = false;
 
   const setValue = (field, property, value) => {
     setFormValue((prev) => ({
@@ -49,18 +57,11 @@ const LoginPage = () => {
       username: formValue.username.value,
       password: formValue.password.value,
     };
-    const res = await fetch(`${import.meta.env.VITE_API_URL}/login`, {
+    submit(body, {
       method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(body),
+      action: "/",
+      encType: "application/json",
     });
-    if (res.status !== 200) {
-      setLoginError(true);
-      return;
-    }
-    const data = await res.json();
   };
 
   const formFieldChange = (e) => {
@@ -68,6 +69,7 @@ const LoginPage = () => {
     setValue(name, "value", value);
     // setFormValue((prev) => ({ ...prev, [name]: { ...prev[name], value } }));
   };
+  if (actionData && !actionData?.ok) loginError = true;
   return (
     <Box sx={{ width: "100vw", height: "100vh" }}>
       <Container fixed sx={{ height: "100%" }}>
@@ -122,7 +124,7 @@ const LoginPage = () => {
             >
               LOGIN
             </Button>
-            {isLoginError && (
+            {loginError && (
               <>
                 <Divider flexItem />
                 <Alert severity="error" sx={{ mt: 1 }}>
@@ -135,6 +137,13 @@ const LoginPage = () => {
       </Container>
     </Box>
   );
+};
+
+export const loginPageAction = async ({ request }) => {
+  let body = await request.json();
+  const resp = await login(body);
+  if (resp.ok) return redirect("/home");
+  else return resp;
 };
 
 export default LoginPage;
