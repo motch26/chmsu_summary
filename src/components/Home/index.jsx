@@ -1,35 +1,17 @@
-import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
-import {
-  Accordion,
-  AccordionDetails,
-  AccordionSummary,
-  Box,
-  Container,
-  Grid,
-  Typography,
-} from "@mui/material";
+import { Box, Container, Grid } from "@mui/material";
 import React, { useState } from "react";
+import CalendarDatePicker from "../Reusables/CalendarDatePicker";
 
 const Home = () => {
-  const [filter, setFilter] = useState({
-    designation: "",
-    employee: {},
-  });
+  const [daysList, setDaysList] = useState([]);
   return (
     <Box sx={{ flexGrow: 1, p: 3, overflowY: "auto" }}>
       <Container fixed>
         <Grid container columnSpacing={3}>
-          <Grid item xs={5}>
-            <Box sx={{ display: "flex", flexDirection: "column" }}>
-              <Accordion>
-                <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-                  <Typography>Designation Type</Typography>
-                </AccordionSummary>
-                <AccordionDetails></AccordionDetails>
-              </Accordion>
-            </Box>
+          <Grid item xs={7} sx={{ flexDirection: "column" }}>
+            <CalendarDatePicker daysList={daysList} setDaysList={setDaysList} />
           </Grid>
-          <Grid item xs={7}></Grid>
+          <Grid item xs={5}></Grid>
         </Grid>
       </Container>
     </Box>
