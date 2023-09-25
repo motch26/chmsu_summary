@@ -24,42 +24,23 @@ const CalendarDatePicker = ({ daysList, setDaysList }) => {
     }
   };
   return (
-    <Box
-      sx={{
-        width: "100%",
-        flexGrow: 1,
-        bgcolor: "red",
-        display: "flex",
-        alignItems: "center",
-        "& .MuiDateCalendar-root": {
-          flexGrow: 1,
-          maxHeight: "1000px",
-        },
-        "& .MuiDayCalendar-weekDayLabel, & .MuiPickersDay-root": {
-          flexGrow: 1,
-          fontSize: "1rem",
-          py: 2,
-        },
-      }}
-    >
-      <LocalizationProvider dateAdapter={AdapterDayjs}>
-        <DateCalendar
-          value={value}
-          showDaysOutsideCurrentMonth
-          onChange={onChangeHandler}
-          slots={{
-            day: pickersDayHandler,
-          }}
-          sx={{}}
-        />
-      </LocalizationProvider>
+    <Box sx={{ boxShadow: theme.shadows[3], margin: "auto" }}>
+      <DateCalendar
+        value={value}
+        showDaysOutsideCurrentMonth
+        onChange={onChangeHandler}
+        slots={{
+          day: pickersDayHandler,
+        }}
+        sx={{}}
+      />
     </Box>
   );
 };
 
 const pickersDayHandler = ({ day, ...others }) => {
   const isSelected = list.includes(day.format("YYYY-MM-DD"));
-  return <PickersDay day={day} {...others} selected={isSelected} is />;
+  return <PickersDay day={day} {...others} selected={isSelected} />;
 };
 
 export default CalendarDatePicker;
