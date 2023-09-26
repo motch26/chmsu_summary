@@ -1,0 +1,2604 @@
+[
+  {
+    "employee_id": "195",
+    "employeeName": "ABALAIN,MARIA JAYCEL GRACE,C.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "586",
+    "employeeName": "ABALE,RONNIE,E.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "560",
+    "employeeName": "Abara,April Joy,S.",
+    "designationName": "PART-TIME"
+  },
+  {
+    "employee_id": "612",
+    "employeeName": "ABELIDO,GINO,P.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "1",
+    "employeeName": "ABELLA,ALEXIS I,J.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "2",
+    "employeeName": "ABETO,MARNYL JOHN,A.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "589",
+    "employeeName": "ABOY,IVY,G.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "3",
+    "employeeName": "ABRERA,APRIL,B.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "186",
+    "employeeName": "ABRIGO,NIRA,L.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "4",
+    "employeeName": "ACANTO,RICKY,B.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "630",
+    "employeeName": "ACEDERA,ARNEL,O.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "5",
+    "employeeName": "ADORADOR,SENSEI,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "238",
+    "employeeName": "AGAY,SHAYNE ANNIE,P.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "6",
+    "employeeName": "AGOT,MA. FE,F.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "518",
+    "employeeName": "AGUDON,ROXAN,C.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "187",
+    "employeeName": "AGUILAR,NESTOR,R.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "530",
+    "employeeName": "AGUIRRE, VANESSA, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "7",
+    "employeeName": "AGUIRRE,JESSICA,Y.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "453",
+    "employeeName": "AGUIRRE,MARK,O.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "240",
+    "employeeName": "ALAMO,ABNER,N.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "360",
+    "employeeName": "ALAMO,SHIELA,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "8",
+    "employeeName": "ALAYON,NICK,D.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "1742",
+    "employeeName": "ALBELA III,CONRAD,H.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "551",
+    "employeeName": "ALCONTIN,SHIELA,M.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "9",
+    "employeeName": "ALEGADA,LUCILLE,B.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "567",
+    "employeeName": "ALEGADO,ROMAR,L.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "10",
+    "employeeName": "ALEGARBES,ROSELYN,R.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "451",
+    "employeeName": "ALFONSO,FRANCIS,..",
+    "designationName": "JOB ORDER"
+  },
+
+  {
+    "employee_id": "242",
+    "employeeName": "ALIMON,BENJIE,C.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "243",
+    "employeeName": "ALINTANA,PRECIOUS JUDY,R.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "244",
+    "employeeName": "ALMODIEL,LYKA,C.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "11",
+    "employeeName": "ALON,RM APRIL,T.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "524",
+    "employeeName": "ALONSAGAY,AIRA,L.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "189",
+    "employeeName": "ALUNAN,MA. GENEROSE,D.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "12",
+    "employeeName": "ALVARADO,ARJAY,Y.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "550",
+    "employeeName": "ALVARAN,JESTONI, .",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "245",
+    "employeeName": "AMACAN,MEL STEPHEN,C.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "13",
+    "employeeName": "AMBONG,KANE SHEENA,D.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "532",
+    "employeeName": "AMBONG,MICHEAL, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "548",
+    "employeeName": "ANDAYA,KENNY,L.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "602",
+    "employeeName": "ANIMAS,DAUPHIN FERDINAND,J.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "438",
+    "employeeName": "ANUEVO,ANNE MURRY,G.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "554",
+    "employeeName": "Apellido,Ma. Darhlene, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "14",
+    "employeeName": "APELO,ESTELITA,C.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "603",
+    "employeeName": "APOSTOL,MA CARLA, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "190",
+    "employeeName": "APSAY,FAUNA VINA,R.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "246",
+    "employeeName": "ARAGON,MARIDEL,E.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "15",
+    "employeeName": "ARANDILLA,COTE-FARE,D.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "191",
+    "employeeName": "ARCENAS,MARIA AGNES,L.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "247",
+    "employeeName": "AREGLADO,JOHN MARK,T.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "248",
+    "employeeName": "ARESCO,TERESA,G.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "16",
+    "employeeName": "ARISTON,MEDIE JUNE,P.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "249",
+    "employeeName": "ARREY,FERRY ANN,S.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "593",
+    "employeeName": "ASCALON,CHRISTA ANNE,C.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "388",
+    "employeeName": "AUTEA,THERESE JOY,D.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "492",
+    "employeeName": "AYALIN JR.,EDGARDO,P.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "471",
+    "employeeName": "BACARON,GLOJEAN,..",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "538",
+    "employeeName": "BAGUMBAYAN,JOHN PAUL,M.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "251",
+    "employeeName": "BAJON,STEPHANIE,P.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "17",
+    "employeeName": "BALA-AN,NEUYER JAN,C.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "424",
+    "employeeName": "BALCINA,JOHN,..",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "480",
+    "employeeName": "BALINAS,DENNIS, .",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "18",
+    "employeeName": "BALSICAS,LILIBETH,S.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "573",
+    "employeeName": "BALSOMO,ESA KATRINA,V.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "509",
+    "employeeName": "BAÑARES,VINZ JANE,E.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "19",
+    "employeeName": "BAÑAS,MARY ROSE,A.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "585",
+    "employeeName": "BANGIS,RICHARD,A.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "412",
+    "employeeName": "BANGOY,JAREBETH,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "253",
+    "employeeName": "BANTILAN,MA. RHEA,J.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "254",
+    "employeeName": "BANTINOY,CHAT,J.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "20",
+    "employeeName": "BARATO,NIEVES,A.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "607",
+    "employeeName": "Barbecho,Marisa,L.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "498",
+    "employeeName": "BAROQUILLO,REY ANTON,S.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "541",
+    "employeeName": "BASAS,MARY JANE,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "21",
+    "employeeName": "BASCAR,JACLYN JOYCE,T.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "22",
+    "employeeName": "BASCAR,JYAN ROME,A.",
+    "designationName": "FACULTY"
+  },
+
+  {
+    "employee_id": "481",
+    "employeeName": "BASTIDA,MIRABELLA DI,B.",
+    "designationName": "PMT"
+  },
+  {
+    "employee_id": "414",
+    "employeeName": "BATAIN,ANDRIO,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "418",
+    "employeeName": "BAYANG,EMARSON,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "353",
+    "employeeName": "BAYLON,MARCELINO,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "23",
+    "employeeName": "BAYLOSIS,MARK DAVE,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "24",
+    "employeeName": "BEARNEZA,FRANCIS JOSE,D.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "614",
+    "employeeName": "BECERA,KIAN, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "255",
+    "employeeName": "BELANDO,RESLIE,D.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "256",
+    "employeeName": "BELICANO,MICHAEL,J.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "627",
+    "employeeName": "BELLEZA,KRISTINE MARIE JOY,S.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "445",
+    "employeeName": "BENDOL,JOHN DAVE,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "257",
+    "employeeName": "BENEDICTO,VANESSA,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "415",
+    "employeeName": "BENTINGANAN,RENO,J.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "621",
+    "employeeName": "BENZULA,ROANNE,H.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "521",
+    "employeeName": "BERI,HAGAR CHIANKI,P.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "409",
+    "employeeName": "BERINA,JIJI,P.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "406",
+    "employeeName": "BERMEJO,ANA MAE,V.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "120",
+    "employeeName": "BERMEJO,RUBY MAE,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "25",
+    "employeeName": "BERNADAS,SHIRLEY JANE,C.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "476",
+    "employeeName": "BETITA,RENZYL MAE, .",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "258",
+    "employeeName": "BIBAS,LOURDELYN,O.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "259",
+    "employeeName": "BILLIONES,NICANOR,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "632",
+    "employeeName": "BILLONES,BOBBIE DYLANIE,O.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "579",
+    "employeeName": "BIÑAS,LEOMAR,C.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "344",
+    "employeeName": "BINIABON,CEFERINO,P.",
+    "designationName": "PMT"
+  },
+  {
+    "employee_id": "646",
+    "employeeName": "BITANGJOL,VANILYN,G.",
+    "designationName": "PART-TIME"
+  },
+  {
+    "employee_id": "546",
+    "employeeName": "BOLIVAR,ABIELLA,D.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "508",
+    "employeeName": "BONATCHE,MICHEL,A.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "399",
+    "employeeName": "BONDA,RICARDO,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "597",
+    "employeeName": "BORROMEO,ARJON,C.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "397",
+    "employeeName": "BRAVO,JEFFERSON,A.",
+    "designationName": "PMT"
+  },
+  {
+    "employee_id": "26",
+    "employeeName": "BRAVO,PERSEUS,T.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "193",
+    "employeeName": "BRAVO,SONIA,A.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "27",
+    "employeeName": "BUGA-AY,CYNTHIA,U.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "527",
+    "employeeName": "BUGNA,CHRIS AMIEL,H.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "28",
+    "employeeName": "BUNCIO,MANUEL ANDRES,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "260",
+    "employeeName": "BUSTAMANTE,NESTOR,O.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "395",
+    "employeeName": "CABATUAN,CLEO,T.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "553",
+    "employeeName": "Cabauatan,King Abram,F.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "482",
+    "employeeName": "CABIOS,JOHN KRISTOPHER,M.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "504",
+    "employeeName": "CABRERA,MYRLY,V.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "30",
+    "employeeName": "CADAGAT,RAMMEL,S.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "435",
+    "employeeName": "CADIAO,CHRISTIAN,G.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "31",
+    "employeeName": "CADIZ,SALLY,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "262",
+    "employeeName": "CAGOYONG,JEAREYCO,P.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "345",
+    "employeeName": "CAJIGAS,KENNETH,G.",
+    "designationName": "PMT"
+  },
+  {
+    "employee_id": "562",
+    "employeeName": "CALDINO,ANA DANIELA,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "32",
+    "employeeName": "CALFOFORO,AMELIA,A.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "475",
+    "employeeName": "CAMATO,JEVEN,S.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "33",
+    "employeeName": "CANGO,MA. VICTORIA,G.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "34",
+    "employeeName": "CANGO,ROGELIO,D.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "394",
+    "employeeName": "CANTOR,MELANIE,G.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "35",
+    "employeeName": "CARABALLE,MA. ROSA,S.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "341",
+    "employeeName": "CARMELOTES,BERNADETTE,A.",
+    "designationName": "PMT"
+  },
+  {
+    "employee_id": "631",
+    "employeeName": "CARREON,CARL BRIAN,T.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "599",
+    "employeeName": "CASABUENA,ARNOLD JOHN,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "194",
+    "employeeName": "CASAG,MA. CRISELDA,M.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "636",
+    "employeeName": "CASIBO,MAY HOPE,C.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "36",
+    "employeeName": "CASIBUA,APOLONIO, JR,D.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "37",
+    "employeeName": "CASILI,MARIVIC,S.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "561",
+    "employeeName": "CASIS,PRINCESS SHALOOM,V.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "263",
+    "employeeName": "CASTILLO,GLEND,E.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "642",
+    "employeeName": "CASTRO,APRIL ROSE,T.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "507",
+    "employeeName": "CASTRO,MARJON,A.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "38",
+    "employeeName": "CAUDELLOSA,ROLLIE, JR,D.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "487",
+    "employeeName": "CELIS,GENEVIEVE,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "39",
+    "employeeName": "CHERNIGUIN,ANA MAGDALENA,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "40",
+    "employeeName": "CHUA,MARIJO,D.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "516",
+    "employeeName": "CLARITO,FREEZE ANN, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "477",
+    "employeeName": "COLANGO,ERLYNOR, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "618",
+    "employeeName": "CORDERO,KENNETH, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "515",
+    "employeeName": "CORDERO,SUSANA,J.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "264",
+    "employeeName": "CORNEA, JR,LUIS,G.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "417",
+    "employeeName": "CORTEZ,MARILOU,E.",
+    "designationName": "PART-TIME"
+  },
+  {
+    "employee_id": "505",
+    "employeeName": "COYACA,LUISA,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "392",
+    "employeeName": "CRUZ,PAOLO EMMANUEL,S.",
+    "designationName": "STAFF"
+  },
+  {
+    "employee_id": "549",
+    "employeeName": "CUANICO,GRACE,D.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "439",
+    "employeeName": "DAAN,JOHN PAUL,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "43",
+    "employeeName": "DAGATAN,DAN,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "643",
+    "employeeName": "DAGUNON,JETHRO,B.",
+    "designationName": "PART-TIME"
+  },
+  {
+    "employee_id": "44",
+    "employeeName": "DAITAO,MILADEN,R.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "485",
+    "employeeName": "DANIEL ,CHRIS,L.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "45",
+    "employeeName": "DARADAR,MARICEL,T.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "484",
+    "employeeName": "DE EMOY,FRANCIS,V.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "490",
+    "employeeName": "DE LA CRUZ,ADRIAN,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "489",
+    "employeeName": "DE LA PAZ,MERYLL,L.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "617",
+    "employeeName": "DEJALDE,ALBERT RHEY,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "46",
+    "employeeName": "DELA CRUZ,LEONILA,V.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "269",
+    "employeeName": "DELA PEÑA,JOY MAE,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "196",
+    "employeeName": "DELA PEÑA,SUZANNE,B.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "47",
+    "employeeName": "DELA TORRE,RUSSEL,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "517",
+    "employeeName": "DELES,JOHN LLOYD,L.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "270",
+    "employeeName": "DELGADO,KIMBERLY,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "531",
+    "employeeName": "DELOS SANTOS,SARAH JOY, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "48",
+    "employeeName": "DEOCADEZ,RIZA,G.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "49",
+    "employeeName": "DERAJA,ANTONIO,L.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "50",
+    "employeeName": "DESABELLA JR,ROMEO,V.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "611",
+    "employeeName": "Detablan,Razel Mae,R.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "271",
+    "employeeName": "DEWARA,SHERWIN,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "565",
+    "employeeName": "DIAMANTE,JOLINA,S.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "605",
+    "employeeName": "Dianton,Dona,J.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "470",
+    "employeeName": "DIASANTA,ELIROSE,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "51",
+    "employeeName": "DICTO,DANTE,R.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "52",
+    "employeeName": "DIGON,KIESHA CHARISSE,O.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "53",
+    "employeeName": "DIGON,MA. ELENA,..",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "408",
+    "employeeName": "DIONEO,MA. SALUD,P.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "401",
+    "employeeName": "DIOPOL,EMILIE,D.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "272",
+    "employeeName": "DIOTAY,BELINDA,L.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "563",
+    "employeeName": "DOHINOG,BEATRICE MARIE,J.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "197",
+    "employeeName": "DOLENDO,MARY ARVIC,G.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "198",
+    "employeeName": "DOLOROSA,CHERYL,U.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "404",
+    "employeeName": "DORUELO,MARIA ELENA,Y.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "54",
+    "employeeName": "DOSAYLA,CHARITY MAE,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "55",
+    "employeeName": "DUAYAN,OPHELIA,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "199",
+    "employeeName": "DUCA,MARILOU,I.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "273",
+    "employeeName": "DUMA-OP,ADRIAN, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "537",
+    "employeeName": "DUMA-OP,ALMARK,H.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "389",
+    "employeeName": "DUMA-OP,LARBY JULE,J.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "384",
+    "employeeName": "DUMAICOS,SVEIN CARLO,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "56",
+    "employeeName": "DUSARAN,YRIKA MARIE,R.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "57",
+    "employeeName": "EBALDE,ERNELINDA,R.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "381",
+    "employeeName": "EDIS,JENNY,L.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "413",
+    "employeeName": "EJERCITO,RENA JOY,S.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "58",
+    "employeeName": "ELANO,ANNABELLE,S.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "426",
+    "employeeName": "ELARMO,REMSON,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "501",
+    "employeeName": "ELI,EDITO,P.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "59",
+    "employeeName": "ELLA,JOHN MIL,A.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "200",
+    "employeeName": "EMPLEO,RICHARD,P.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "544",
+    "employeeName": "ENCABO,JUVELYN,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "201",
+    "employeeName": "ENCISO,RICHELLE,S.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "61",
+    "employeeName": "EREJE,RAYNOR,F.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "433",
+    "employeeName": "ESCALADA,JULLIENE FAYE,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "275",
+    "employeeName": "ESCALANTE,CHERRIE MAE, .",
+    "designationName": "STAFF"
+  },
+  {
+    "employee_id": "459",
+    "employeeName": "ESCANDER,CHRISTOPHER,R.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "276",
+    "employeeName": "ESCOTOTO,ALAN,T.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "62",
+    "employeeName": "ESMERALDA,AILEEN,B.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "63",
+    "employeeName": "ESONA,NORALYN,S.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "644",
+    "employeeName": "ESPAÑOLA,KURT ALDRICH,F.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "639",
+    "employeeName": "ESPAÑOLA,SHELANE,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "202",
+    "employeeName": "ESPINOSA,ELMERIO,J.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "64",
+    "employeeName": "ESPINOSA,JANET,P.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "203",
+    "employeeName": "ESPINOSA,RENE,J.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "204",
+    "employeeName": "ESTACION,PHILIP AL,C.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "2003",
+    "employeeName": "ESTAÑOL,DARYL,A.",
+    "designationName": "COOP"
+  },
+  {
+    "employee_id": "65",
+    "employeeName": "ESTARES,SOLEDAD,D.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "1155",
+    "employeeName": "ESTIMAR,JANET,P.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "66",
+    "employeeName": "ESTRELLAS,JAY,B.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "67",
+    "employeeName": "FERNANDEZ,LEAH,L.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "68",
+    "employeeName": "FERNANDEZ,MARIA THIRZA,O.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "578",
+    "employeeName": "FERNANDO,ANALIE ,S.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "205",
+    "employeeName": "FERRARIZ,GENER JOHN,H.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "536",
+    "employeeName": "FIERRO,LA RIENE,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "640",
+    "employeeName": "FORNIPA,DEONA RAE,P.",
+    "designationName": "PART-TIME"
+  },
+  {
+    "employee_id": "69",
+    "employeeName": "FORTON,MICHAEL,D.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "610",
+    "employeeName": "Francia,Cyrus Kenneth,S.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "402",
+    "employeeName": "FRIAS,JAZER,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "206",
+    "employeeName": "FUENTES,LIGAYA,E.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "278",
+    "employeeName": "FUERTES,PAULINO,G.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "70",
+    "employeeName": "FULGARINAS,JOSIL,B.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "71",
+    "employeeName": "GALANG,SARAH,A.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "432",
+    "employeeName": "GALENO,APRIL ROSE,L.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "279",
+    "employeeName": "GALENO,JUVIE ANNE,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "207",
+    "employeeName": "GALLEGO,JR.,HERMELITO,G.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "280",
+    "employeeName": "GANTALAO,MELISSA,L.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "604",
+    "employeeName": "GAPUZ,KEVIN,L.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "72",
+    "employeeName": "GARCIA,JOYZEL REY,E.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "281",
+    "employeeName": "GARCIA,LEVY,M.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "210",
+    "employeeName": "GARZOLA,GLENDA,C.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "633",
+    "employeeName": "GASENDO,BERNARDO,M.",
+    "designationName": "PART-TIME"
+  },
+  {
+    "employee_id": "282",
+    "employeeName": "GAURDIALAO,DONA JEAN,C.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "421",
+    "employeeName": "GAYONDATO JR.,GANI ,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "457",
+    "employeeName": "GEAGOGO,MARY FAITH,M.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "211",
+    "employeeName": "GEGANTONI,JOWIE,B.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "469",
+    "employeeName": "GEGANTONI,REBECCA,C.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "73",
+    "employeeName": "GENOLOS,ZENAIDA,H.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "74",
+    "employeeName": "GEROCHE,JUVI ANN,G.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "75",
+    "employeeName": "GERONA,GRACE,C.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "76",
+    "employeeName": "GERONA,ROY,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "2004",
+    "employeeName": "GESULGON,MA MICHELLE,B.",
+    "designationName": "COOP"
+  },
+  {
+    "employee_id": "460",
+    "employeeName": "GILPO,JANNE LY,C.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "77",
+    "employeeName": "GOLEZ,HARVEY,T.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "483",
+    "employeeName": "GOLIPAPA,MARY CRIS,P.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "416",
+    "employeeName": "GONORA,ALMA,M.",
+    "designationName": "PART-TIME"
+  },
+  {
+    "employee_id": "580",
+    "employeeName": "GONZAGA,IRNEL,M.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "564",
+    "employeeName": "GONZAGA,JOHN MARK,C.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "583",
+    "employeeName": "GONZALES,CARINA CHRISTINE,Q.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "595",
+    "employeeName": "GONZALES,DARIEL,P.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "78",
+    "employeeName": "GORRICETA,LYDIA,F.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "635",
+    "employeeName": "GOTERA,GERONEMO III,A.",
+    "designationName": "PART-TIME"
+  },
+  {
+    "employee_id": "634",
+    "employeeName": "GOTERA,RONA MAE,O.",
+    "designationName": "PART-TIME"
+  },
+  {
+    "employee_id": "79",
+    "employeeName": "GRANFIEL,LOVELYN,L.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "285",
+    "employeeName": "GRANJA,NOLI,G.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "286",
+    "employeeName": "GUADALUPE,GILBERT,C.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "80",
+    "employeeName": "GUANZON,GECIELA,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "626",
+    "employeeName": "GUARDIANO JR.,VINCENT,V.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "212",
+    "employeeName": "GUILARAN,OLIVER,P.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "213",
+    "employeeName": "GUMATA,JERRY,S.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "81",
+    "employeeName": "GUMBAN,ELMER,A.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "82",
+    "employeeName": "HAGOS,MA. LOURDES,R.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "287",
+    "employeeName": "HECHANOVA,VERNIE,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "83",
+    "employeeName": "HERRERA JR,SAMUEL,H.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "601",
+    "employeeName": "HILARIO,JENELY ,D.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "447",
+    "employeeName": "HOJILLA,ANGELICA,M.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "288",
+    "employeeName": "IGNACIO,JOSHUA,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "85",
+    "employeeName": "IMPIL,LEONISA,A.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "86",
+    "employeeName": "IWAYAN,RONNIE,P.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "289",
+    "employeeName": "JACINTO,JAIRA,A.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "352",
+    "employeeName": "JACOBE,REMY,L.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "290",
+    "employeeName": "JALANDO-ON,ERIC MARC,M.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "291",
+    "employeeName": "JALANDO-ON,JOSEPH IKE,E.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "87",
+    "employeeName": "JALANDONI,PERLYN,G.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "547",
+    "employeeName": "JALASCO,MA. TERESA,J.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "88",
+    "employeeName": "JANDONGAN,MARCELO,C.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "600",
+    "employeeName": "JARANILLA,MARK, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "436",
+    "employeeName": "JARDELIZA,MA THEA,M.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "526",
+    "employeeName": "JARDENIANO,ROMELYN, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "89",
+    "employeeName": "JARON,WANNY,B.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "90",
+    "employeeName": "JAVIER JR.,RUFUS,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "293",
+    "employeeName": "JAYME,HELEN,J.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "569",
+    "employeeName": "JEROTA,HANNIEL,D.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "387",
+    "employeeName": "JOMALESA,ALVIN,E.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "437",
+    "employeeName": "JONOTA,MALOU,T.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "430",
+    "employeeName": "JOVER,MARLYN,G.",
+    "designationName": "PART-TIME"
+  },
+  {
+    "employee_id": "91",
+    "employeeName": "JUDITH,VANESSA JOY,Z.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "92",
+    "employeeName": "JUESNA,JO-AN,O.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "214",
+    "employeeName": "JUGOS,MA. LORENA,F.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "295",
+    "employeeName": "JUNTO,ROSEMION,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "427",
+    "employeeName": "KATALBAS,MARIO,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "496",
+    "employeeName": "LABAYEN,JEANGER,J.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "552",
+    "employeeName": "LABAYEN,REGGIENALD,A.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "93",
+    "employeeName": "LABRADOR,JOHMEL,N.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "525",
+    "employeeName": "LACHICA,MICHELLE JANE,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "94",
+    "employeeName": "LAGANHON,ALJAVEN BRUCE,C.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "95",
+    "employeeName": "LAGANHON,MARY LEANNE,A.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "434",
+    "employeeName": "LAGUDA,ANN MARIE,T.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "96",
+    "employeeName": "LAMPINEZ,JOSE LIZAEL,B.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "97",
+    "employeeName": "LANGCOY,MARY GRACE,F.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "297",
+    "employeeName": "LANGUITA,MARITES,S.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "555",
+    "employeeName": "Laos,Karl Angelo,D.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "396",
+    "employeeName": "LATRIZ,FRANKLIN,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "298",
+    "employeeName": "LATURNAS,ARNEL,R.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "400",
+    "employeeName": "LEONILA,DELA CRUZ,V.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "559",
+    "employeeName": "LI,MARIA LOURDES, .",
+    "designationName": "PART-TIME"
+  },
+  {
+    "employee_id": "299",
+    "employeeName": "LIBRANDO,ERNA,L.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "2002",
+    "employeeName": "LIDRES,DIOSDADO,P.",
+    "designationName": "COOP"
+  },
+  {
+    "employee_id": "98",
+    "employeeName": "LINAJA,RHEA,S.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "533",
+    "employeeName": "LINAS,RONIE,T.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "588",
+    "employeeName": "LINAUGO,JOJI,D.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "99",
+    "employeeName": "LIRAZAN,SUSAN,V.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "100",
+    "employeeName": "LOBATON,JONATHAN,E.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "556",
+    "employeeName": "LOBATON,VINCE PAUL,Y.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "300",
+    "employeeName": "LOBRESCO,BOBBY,L.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "216",
+    "employeeName": "LOBRESCO,LEONARDO,P.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "606",
+    "employeeName": "Longakit,Chrizel Mae,T.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "458",
+    "employeeName": "LOPEZ JR.,JERRY ,V.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "101",
+    "employeeName": "LOPEZ,ANGELIE,P.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "102",
+    "employeeName": "LOPEZ,GERTRUDES ANASTACIA,D.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "493",
+    "employeeName": "LOPEZ,JOSHUA,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "495",
+    "employeeName": "LORICO,ARIUS,P.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "347",
+    "employeeName": "LOUISE,LIZ,P.",
+    "designationName": "PMT"
+  },
+  {
+    "employee_id": "301",
+    "employeeName": "LUCERO,GLYNDA,S.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "575",
+    "employeeName": "LUCERO,JOHN CARLO,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "302",
+    "employeeName": "LUMANOG,RHANEE,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "497",
+    "employeeName": "LUMAUAG,FREDDIE,N.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "303",
+    "employeeName": "LUMAWAG,CECILIA NERISSE,P.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "441",
+    "employeeName": "MACAHILIG,SHERWIN,J.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "103",
+    "employeeName": "MACATIMPAG,ESTHER LEAH,S.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "305",
+    "employeeName": "MAGALLANES,CRIS,J.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "306",
+    "employeeName": "MAGLALANG,MICHELLE,W.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "581",
+    "employeeName": "MAHILUM,KENT,C.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "308",
+    "employeeName": "MALACAMAN,MARY JOY,B.",
+    "designationName": "STAFF"
+  },
+  {
+    "employee_id": "104",
+    "employeeName": "MALAGA,JOSE RABBI,B.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "105",
+    "employeeName": "MALAGA,RONORA,S.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "638",
+    "employeeName": "MALAPITAN,NICOLE,J.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "106",
+    "employeeName": "MALAPITAN,RUEL,B.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "217",
+    "employeeName": "MALEFICIO,CYNTHIA,A.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "462",
+    "employeeName": "MALIJOC,MARCIA,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "624",
+    "employeeName": "MALLEN,JOEMAR,S.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "629",
+    "employeeName": "MAMAC,NOEL,B.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "107",
+    "employeeName": "MANA-AY,ANNIELOU,V.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "590",
+    "employeeName": "MANALO,MA.RIZA,T.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "218",
+    "employeeName": "MANGULABNAN,NORBERTO,P.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "510",
+    "employeeName": "MANZANO,ROGER RAY,S.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "108",
+    "employeeName": "MAQUILING,EVERLOU,E.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "310",
+    "employeeName": "MARCIAL, JR,DIOMELE,S.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "455",
+    "employeeName": "MARGATE,JOHN,V.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "109",
+    "employeeName": "MARIO,JULIE ANN,B.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "506",
+    "employeeName": "MARIVELES,JOHNARD, .",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "1146",
+    "employeeName": "MARIVELES,JOHNARD,..",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "110",
+    "employeeName": "MARQUEZ,JUN-JUN,J.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "311",
+    "employeeName": "MATA,PETER JONE,V.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "407",
+    "employeeName": "MATTI,LADY BERNICE,G.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "313",
+    "employeeName": "MEDALLA,LEONIL, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "219",
+    "employeeName": "MEDALLA,MA. KRISTINA,G.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "557",
+    "employeeName": "Medina,Cerisca ,V.",
+    "designationName": "PART-TIME"
+  },
+  {
+    "employee_id": "423",
+    "employeeName": "MEGUIZO,MARK,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "584",
+    "employeeName": "MENDONES,MARK ,B.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "111",
+    "employeeName": "MENDOZA,DONNA,D.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "112",
+    "employeeName": "MENDOZA,REY,Q.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "113",
+    "employeeName": "MERCURIO,DOMINIC,F.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "2001",
+    "employeeName": "Mesola,Cherrlyn,V.",
+    "designationName": "COOP"
+  },
+  {
+    "employee_id": "114",
+    "employeeName": "MIJARES,CYNTHIA,D.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "115",
+    "employeeName": "MIJARES,JOEL,O.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "390",
+    "employeeName": "MILLAN,CRIS ANN,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "118",
+    "employeeName": "MONDERO,NORBERTO,L.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "594",
+    "employeeName": "MONES,RYAN JOHN, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "220",
+    "employeeName": "MONGCAL,VIOLA,D.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "442",
+    "employeeName": "MONTANO,JOHN KYLE,S.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "528",
+    "employeeName": "Montoro, Christian Louise, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "534",
+    "employeeName": "MORALDE,JERICO,L.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "119",
+    "employeeName": "MORALES,MA. ELENA,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "314",
+    "employeeName": "MORALES,RAJA NOVIA,L.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "315",
+    "employeeName": "MORENO,JOYCE ANN,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "316",
+    "employeeName": "MOSCOSO,ARMAND,C.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "571",
+    "employeeName": "NACIONALES,JOHN PAUL,T.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "121",
+    "employeeName": "NACIONALES,MARY GRACE,B.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "499",
+    "employeeName": "NARVAS,MARVIN,P.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "123",
+    "employeeName": "NEMENZO,RUTH,T.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "479",
+    "employeeName": "NEMINSO,IVY,G.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "386",
+    "employeeName": "NIETES,ARNOLD,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "473",
+    "employeeName": "NOBLEZA,JOHN MICHAEL LEVIC,D.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "452",
+    "employeeName": "NOBLEZA,RAQUEL,C.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "317",
+    "employeeName": "NORTE,BEVONNIE,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "420",
+    "employeeName": "NOVILLA,MARVIN GUILE,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "124",
+    "employeeName": "NUARBE,VENUS,T.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "318",
+    "employeeName": "OBEJERO,ALAN,V.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "446",
+    "employeeName": "OFIANGA,ANDRO,H.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "540",
+    "employeeName": "OLE,FAITH CELESTE,B.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "428",
+    "employeeName": "ORDILLA,DIESYME,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "127",
+    "employeeName": "ORENSE,JONATHAN,B.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "128",
+    "employeeName": "ORLEANS,CHIRYL,L.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "319",
+    "employeeName": "ORTEGA,HENRY,V.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "464",
+    "employeeName": "ORTEGA,THEA MAE,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "576",
+    "employeeName": "OSAL,JOSEL,P.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "558",
+    "employeeName": "PABELONA,RICHARD, .",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "129",
+    "employeeName": "PABIANIA,IDA,J.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "222",
+    "employeeName": "PABLO,ALLEN,K.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "456",
+    "employeeName": "PABUAYA,MIRIAN, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "320",
+    "employeeName": "PADILLA,BENEDICT MARCOS,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "608",
+    "employeeName": "Padonio,Deyne Rose,R.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "321",
+    "employeeName": "PAGAYONAN,LUCILLE, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "385",
+    "employeeName": "PAJANTOY,ALYN SANY MARIE,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "410",
+    "employeeName": "PAJES,LILAH,..",
+    "designationName": "PART-TIME"
+  },
+  {
+    "employee_id": "391",
+    "employeeName": "PALERMO,JUBEN,G.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "529",
+    "employeeName": "PALPAL,JOHN ERIC,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "628",
+    "employeeName": "PARCON,JOHNBERT,G.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "323",
+    "employeeName": "PARCON,MA. KHIA,I.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "542",
+    "employeeName": "PARREÑAS,NOEGUI CHRISTIAN CHARLES,D.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "465",
+    "employeeName": "PARROCHO ,MA. CHRISTINA,G.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "615",
+    "employeeName": "PASION,KEINTH DAVID,S.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "486",
+    "employeeName": "PASQUIN,ARLENE,G.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "522",
+    "employeeName": "PASUSTENTO,MARK VER,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "596",
+    "employeeName": "PEÑAFIEL,ARNEL,J.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "620",
+    "employeeName": "PEÑAFIEL,HANCE,O.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "474",
+    "employeeName": "PERALTA,ROLADO JR,Z.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "472",
+    "employeeName": "Perasol,Dether ,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "450",
+    "employeeName": "PESCANTE,REYLAND,..",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "592",
+    "employeeName": "PICAR,JOY,L.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "622",
+    "employeeName": "PILAR,MARLON,D.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "570",
+    "employeeName": "PILLADO,KIM,A.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "494",
+    "employeeName": "PILLO,WENESDAY,G.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "398",
+    "employeeName": "PRAYCO,RICA,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "625",
+    "employeeName": "PRESAS,LYNDEE GRACE, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "405",
+    "employeeName": "QUI,VINCENT,B.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "467",
+    "employeeName": "QUIJOTE,NEHEMIAH,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "591",
+    "employeeName": "RESUELO,BEVERLY, .",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "645",
+    "employeeName": "REYES,NEIL BRYAN,B.",
+    "designationName": "PART-TIME"
+  },
+  {
+    "employee_id": "443",
+    "employeeName": "ROBANTE,CRISTY MAE,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "519",
+    "employeeName": "ROJO,MINETTE,D.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "454",
+    "employeeName": "ROMERO,LORENA,D.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "491",
+    "employeeName": "ROMERO,MARVIN,S.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "463",
+    "employeeName": "Rommel,Flaviano ,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "331",
+    "employeeName": "RONQUILLO,NIKKI, .",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "393",
+    "employeeName": "ROSALES-CUAYSING,ANNIE ROSE,B.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "419",
+    "employeeName": "ROSALLO,NOLLIDO,..",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "383",
+    "employeeName": "RUEGO,ROSILYN,C.",
+    "designationName": "STAFF"
+  },
+  {
+    "employee_id": "511",
+    "employeeName": "RUIZ,MIA NICOLE,T.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "647",
+    "employeeName": "SABIO,SHIELA ANN,D.",
+    "designationName": "PART-TIME"
+  },
+  {
+    "employee_id": "500",
+    "employeeName": "SALES,PAOLO,Q.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "468",
+    "employeeName": "SALMINGO,EULA MAY,V.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "503",
+    "employeeName": "SAMBRONA,JOHNVER,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "444",
+    "employeeName": "SAMONTE,JR,ROLANDO,V.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "520",
+    "employeeName": "SANTILLANA,SAM SHEERWIN,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "623",
+    "employeeName": "SANTOYO,BENJIE,L.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "613",
+    "employeeName": "SAPIO,PRINCESS ANN,S.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "512",
+    "employeeName": "SARACIA,JESSABEL MAE,D.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "334",
+    "employeeName": "SAYON,AICA, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "577",
+    "employeeName": "SEALMOY,LENDI LEE,A.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "429",
+    "employeeName": "SEBALLOS,ARIEL,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "535",
+    "employeeName": "SEBARILLO,ROVIAN JANE, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "461",
+    "employeeName": "SEGOVIA,EARVIN ISIAH MARC ,J.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "153",
+    "employeeName": "SIAN, JR.,JULIAN,C.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "229",
+    "employeeName": "SIAN,HERTZELL,S.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "192",
+    "employeeName": "SITCHON,JUDY,A.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "422",
+    "employeeName": "SOBREPEÑA,AERIEL MARIZ,D.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "513",
+    "employeeName": "SOGUILON,JOHN REY,C.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "539",
+    "employeeName": "SOLIDARIOS,DAVE BEN,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "382",
+    "employeeName": "SOMODIO,MICHAEL JASON,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "449",
+    "employeeName": "SOQUIÑA,GENE,E.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "431",
+    "employeeName": "STEMPLE,CASUYON,..",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "574",
+    "employeeName": "TABANQUERAO,ALDRIN,..",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "568",
+    "employeeName": "TANGCO,FRETZIELYN,L.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "448",
+    "employeeName": "TEMPLATURA,ELESA,S.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "587",
+    "employeeName": "TENDERO,ERIC JOHN,D.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "619",
+    "employeeName": "TENDERO,WILLIAMROSE,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "566",
+    "employeeName": "TIBAR,LORENZE,R.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "466",
+    "employeeName": "TICAO,JOVEN,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "171",
+    "employeeName": "TINGAS,LUCY,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "514",
+    "employeeName": "TIONKO,JHAZEL MARIE, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "572",
+    "employeeName": "TOLENTINO,DEE,S.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "545",
+    "employeeName": "TORNEA,JAN MICHAEL, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "174",
+    "employeeName": "TORTOGO,LEIZL MAY,C.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "440",
+    "employeeName": "TRANQUILO,BEATRICE,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "425",
+    "employeeName": "TRIBACO,MA. CHARRISE,R.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "582",
+    "employeeName": "TUBERA,MARIA ISABEL, .",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "337",
+    "employeeName": "TUBERA,MARIA THEREASA,D.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "523",
+    "employeeName": "TUBLE,CHRISTOPHER JOHN,M.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "1786",
+    "employeeName": "TUBLE,RUVY,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "478",
+    "employeeName": "TUMABING,DANES, .",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "177",
+    "employeeName": "TUMABING,JANSEN,P.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "338",
+    "employeeName": "TUMAYAN,NORMAN, .",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "488",
+    "employeeName": "TUPAN,JIM JUNE,L.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "178",
+    "employeeName": "TUSCANO,MA. ROWENA,J.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "411",
+    "employeeName": "TUSCANO,MARIA ROWENA ,J.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "233",
+    "employeeName": "TUVILLA,ROSALINDA,S.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "609",
+    "employeeName": "Valence,Razel,A.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "179",
+    "employeeName": "VALENCIA,JOEL,M.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "180",
+    "employeeName": "VALLADAREZ,JOHN ROLAND,Z.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "616",
+    "employeeName": "VELANO JR.,ALEX,E.",
+    "designationName": "ILOBAC&RKJ_T"
+  },
+  {
+    "employee_id": "181",
+    "employeeName": "VELASCO,YVONNE,P.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "182",
+    "employeeName": "VEÑEGAS,ROSEMARIE,L.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "637",
+    "employeeName": "VICERA,HANAH,T.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "234",
+    "employeeName": "VILLA,MARIA JINA,D.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "598",
+    "employeeName": "VILLA,ROMER JOHN,J.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "403",
+    "employeeName": "VILLAROSA,JENNY ANN,S.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "235",
+    "employeeName": "VILLARUZ,CHERYL,B.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "184",
+    "employeeName": "VILLARUZ,EDWIN,B.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "502",
+    "employeeName": "Villaruz,Ralph Anthony,B.",
+    "designationName": "JOB ORDER"
+  },
+  {
+    "employee_id": "236",
+    "employeeName": "VILLASOR,CHLOE HOPE,T.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "185",
+    "employeeName": "VIOLANDA,MARIA VICTORIA,G.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "237",
+    "employeeName": "VISITACION,ARLENE,E.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "252",
+    "employeeName": "WHO IS,WHO IS,E.",
+    "designationName": "GASS"
+  },
+  {
+    "employee_id": "136",
+    "employeeName": "ZAPANTA,MARIA GENESSA,P.",
+    "designationName": "FACULTY"
+  },
+  {
+    "employee_id": "641",
+    "employeeName": "ZARAGOZA,SHARJOLYN MAE,B.",
+    "designationName": "JOB ORDER"
+  }
+]

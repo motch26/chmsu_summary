@@ -77,7 +77,9 @@ const HoursSections = ({ hours, setHours }) => {
         )}
       </Grid>
       <FormControlLabel
-        control={<Checkbox checked={hasOT} onChange={checkHandler} />}
+        control={<Checkbox />}
+        onChange={checkHandler}
+        checked={hasOT}
         label="Has Overtime?"
       />
     </Box>

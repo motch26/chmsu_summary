@@ -32,6 +32,7 @@ const Home = () => {
   const [settings, setSettings] = useState(rulesFormat);
   const [daysList, setDaysList] = useState([]);
   const [hours, setHours] = useState(hoursFormat);
+  const [selectedEmployees, setSelectedEmployees] = useState([]);
   return (
     <Box sx={{ flexGrow: 1, p: 3, overflowY: "auto" }}>
       <Container
@@ -94,8 +95,11 @@ const Home = () => {
               >
                 Employees Section
               </Typography>
-              <EmployeeDropdown />
-              <Button variant="contained">Add Rule</Button>
+              <EmployeeDropdown
+                selectedEmployees={selectedEmployees}
+                setSelectedEmployees={setSelectedEmployees}
+              />
+              <Button variant="contained">Add Setting</Button>
             </Box>
           </Grid>
         </Grid>

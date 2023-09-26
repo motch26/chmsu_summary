@@ -28,8 +28,7 @@ const HomeLayout = () => {
               }}
             >
               <Button color="inherit">CREATE</Button>
-              <Button color="inherit">RECORDS</Button>
-              <Button color="inherit">GENERATE</Button>
+              <Button color="inherit">SETTINGS</Button>
             </Box>
           </Toolbar>
         </AppBar>

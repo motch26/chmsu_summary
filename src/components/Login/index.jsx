@@ -7,16 +7,11 @@ import {
   Typography,
   useTheme,
 } from "@mui/material";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import RegularTextField from "../Reusables/RegularTextField";
 import LoginIcon from "@mui/icons-material/Login";
-import {
-  redirect,
-  useActionData,
-  useFetcher,
-  useSubmit,
-} from "react-router-dom";
-import { login } from "../../utils/userUtils";
+import { redirect, useActionData, useSubmit } from "react-router-dom";
+import { login } from "../../handlers/userHandlers";
 
 const LoginPage = () => {
   const theme = useTheme();

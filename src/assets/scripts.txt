@@ -1,0 +1,13 @@
+WITH employeeData as (
+    SELECT 
+	employee.employee_id, 
+    CONCAT(employee.lastname, ',', employee.firstname, ',' , SUBSTRING(employee.middlename, 1, 1), '.') as employeeName,
+    designation.designation_name as designationName
+FROM employee 
+INNER JOIN designation
+	USING (designation_id)
+)
+SELECT *
+FROM employeeData
+WHERE employeeData.employeeName IS NOT NULL
+ORDER BY employeeData.employeeName 
