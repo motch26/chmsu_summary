@@ -3,53 +3,30 @@ import {
   Autocomplete,
   Box,
   Button,
-  Checkbox,
   FormControlLabel,
   Popover,
+  Radio,
+  RadioGroup,
   TextField,
   Typography,
+  darken,
+  lighten,
+  styled,
 } from "@mui/material";
 import React, { useMemo, useState } from "react";
 import employeesList from "../../assets/employees.json";
 import { normalizeName } from "../../constants";
 
-const filtersFormat = {
-  alphabetical: true,
-  designation: false,
-};
-
 const getLabel = ({ employeeName }) => normalizeName(employeeName);
 
 const EmployeeDropdown = ({ selectedEmployees, setSelectedEmployees }) => {
-  console.log("selectedEmployees", selectedEmployees);
-  const [filters, setFilters] = useState(filtersFormat);
+  console.log("[selectedEmployees]", selectedEmployees);
+  const [selectedFilter, setSelectedFilter] = useState("name");
   const [filterAnchor, setFilterAnchor] = useState(null);
   const [inputValue, setInputVallue] = useState("");
 
-  // const selectedMemoized = useMemo(
-  //   () =>
-  //     employeesList.filter((employee) => {
-  //       const item = selectedEmployees.find(
-  //         (selected) => selected.employee_id === employee.employee_id
-  //       );
-
-  //       return Boolean(item);
-  //     }),
-  //   [employeesList]
-  // );
-
   const autocompleteChange = (val) => {
-    const employeeIDFromAutoComplete = val[0].employee_id;
-    const item = selectedEmployees.find(
-      (employee) => employee.employee_id === employeeIDFromAutoComplete
-    );
-    if (item)
-      setSelectedEmployees((prev) => [
-        ...prev.filter(
-          ({ employee_id }) => employee_id !== employeeIDFromAutoComplete
-        ),
-      ]);
-    else setSelectedEmployees((prev) => [...prev, val[0]]);
+    setSelectedEmployees(val);
   };
 
   const inputChange = (e, val) => setInputVallue(val);
@@ -57,9 +34,27 @@ const EmployeeDropdown = ({ selectedEmployees, setSelectedEmployees }) => {
   const setAnchor = (e) => setFilterAnchor(e.currentTarget);
   const closeAnchor = () => setFilterAnchor(null);
 
-  const filterChangeHandler = (e, type) =>
-    setFilters((prev) => ({ ...prev, [type]: e.target.checked }));
+  const filterChangeHandler = (e) => setSelectedFilter(e.target.value);
+  const employeeListAddedInitial = employeesList.map((e) => ({
+    ...e,
+    firstLetter: e.employeeName.charAt(0),
+  }));
 
+  const currentFilter = {
+    options: {
+      name: employeeListAddedInitial.sort(
+        (a, b) => -b.firstLetter.localeCompare(a.firstLetter)
+      ),
+
+      designation: employeeListAddedInitial.sort(
+        (a, b) => -b.designationName.localeCompare(a.designationName)
+      ),
+    },
+    groupBy: {
+      name: (option) => option.firstLetter,
+      designation: (option) => option.designationName,
+    },
+  };
   return (
     <Box sx={{ flexGrow: 1, display: "flex", flexDirection: "column", gap: 1 }}>
       <Button
@@ -85,26 +80,27 @@ const EmployeeDropdown = ({ selectedEmployees, setSelectedEmployees }) => {
       >
         <Box sx={{ p: 3 }}>
           <Typography>Select all that apply.</Typography>
-          <Box sx={{ display: "flex", flexDirection: "column" }}>
+          <RadioGroup name="filter" onChange={filterChangeHandler}>
             <FormControlLabel
-              label="Name Ascending"
-              control={<Checkbox />}
-              checked={filters.alphabetical}
-              onChange={(e) => filterChangeHandler(e, "alphabetical")}
+              label="By Last Name"
+              control={<Radio />}
+              value="name"
+              checked={selectedFilter === "name"}
             />
             <FormControlLabel
               label="By Designation"
-              control={<Checkbox />}
-              checked={filters.designation}
-              onChange={(e) => filterChangeHandler(e, "designation")}
+              control={<Radio />}
+              value="designation"
+              checked={selectedFilter === "designation"}
             />
-          </Box>
+          </RadioGroup>
         </Box>
       </Popover>
       <Autocomplete
         multiple
         disableCloseOnSelect
-        options={employeesList}
+        options={currentFilter.options[selectedFilter]}
+        groupBy={currentFilter.groupBy[selectedFilter]}
         getOptionLabel={getLabel}
         inputValue={inputValue}
         onInputChange={inputChange}
@@ -113,10 +109,28 @@ const EmployeeDropdown = ({ selectedEmployees, setSelectedEmployees }) => {
         renderInput={(params) => (
           <TextField {...params} variant="standard" label="Select Employee" />
         )}
+        renderGroup={(params) => (
+          <li key={params.key}>
+            <GroupHeader>{params.group}</GroupHeader>
+            <GroupItems>{params.children}</GroupItems>
+          </li>
+        )}
         sx={{ maxHeight: "65vh", overflowY: "auto" }}
       />
     </Box>
   );
 };
-
+const GroupHeader = styled("div")(({ theme }) => ({
+  position: "sticky",
+  top: "-8px",
+  padding: "4px 10px",
+  color: theme.palette.primary.main,
+  backgroundColor:
+    theme.palette.mode === "light"
+      ? lighten(theme.palette.primary.light, 0.85)
+      : darken(theme.palette.primary.main, 0.8),
+}));
+const GroupItems = styled("ul")({
+  padding: 0,
+});
 export default EmployeeDropdown;
