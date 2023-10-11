@@ -26,7 +26,33 @@ const EmployeeDropdown = ({ selectedEmployees, setSelectedEmployees }) => {
   const [inputValue, setInputVallue] = useState("");
 
   const autocompleteChange = (val) => {
-    setSelectedEmployees(val);
+    const getDuplicateItemsID = (arr) => {
+      const counts = {};
+      const dupes = [];
+
+      for (const item of arr) {
+        const currentEmployeeID = item.employee_id;
+        if (counts[currentEmployeeID] === undefined) {
+          counts[currentEmployeeID] = 1;
+        } else {
+          counts[currentEmployeeID]++;
+        }
+      }
+      for (const item in counts) {
+        if (counts[item] > 1) {
+          dupes.push(item);
+        }
+      }
+
+      return dupes;
+    };
+    const final = val
+      .filter(
+        ({ employee_id }) => !getDuplicateItemsID(val).includes(employee_id)
+      )
+      .sort((a, b) => -b.employeeName.localeCompare(a.employeeName));
+
+    setSelectedEmployees(final);
   };
 
   const inputChange = (e, val) => setInputVallue(val);

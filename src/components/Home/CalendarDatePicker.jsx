@@ -27,7 +27,6 @@ const CalendarDatePicker = ({ daysList, setDaysList }) => {
     <Box sx={{ boxShadow: theme.shadows[3], margin: "auto" }}>
       <DateCalendar
         value={value}
-        showDaysOutsideCurrentMonth
         onChange={onChangeHandler}
         slots={{
           day: pickersDayHandler,
