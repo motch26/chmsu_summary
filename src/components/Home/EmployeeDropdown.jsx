@@ -20,7 +20,6 @@ import { normalizeName } from "../../constants";
 const getLabel = ({ employeeName }) => normalizeName(employeeName);
 
 const EmployeeDropdown = ({ selectedEmployees, setSelectedEmployees }) => {
-  console.log("[selectedEmployees]", selectedEmployees);
   const [selectedFilter, setSelectedFilter] = useState("name");
   const [filterAnchor, setFilterAnchor] = useState(null);
   const [inputValue, setInputVallue] = useState("");

@@ -33,6 +33,15 @@ const Home = () => {
   const [daysList, setDaysList] = useState([]);
   const [hours, setHours] = useState(hoursFormat);
   const [selectedEmployees, setSelectedEmployees] = useState([]);
+
+  const addSetting = () => {
+    const payload = {
+      hours,
+      daysList,
+      selectedEmployees,
+    };
+    console.log("payload", payload);
+  };
   return (
     <Box sx={{ flexGrow: 1, p: 3, overflowY: "auto" }}>
       <Container
@@ -99,7 +108,9 @@ const Home = () => {
                 selectedEmployees={selectedEmployees}
                 setSelectedEmployees={setSelectedEmployees}
               />
-              <Button variant="contained">Add Setting</Button>
+              <Button variant="contained" onClick={addSetting}>
+                Add Setting
+              </Button>
             </Box>
           </Grid>
         </Grid>
